@@ -1,16 +1,59 @@
 ---
-title: "analysis_pipeline"
+title: "Analysis_pipeline"
 format: html
+toc: true 
 editor: visual
 ---
 
-## Quarto
+# Analysis pipeline for my 4th Year (MBiol) Project
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+## Contents
 
-## Running Code
+-   [Section 1](#section-1)
+-   [Section 2](#section-2)
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Calculating an approximation of coverage_depth
+
+My mtDNA sequences were obtained in a .fasta file format from a variety of sources and publications. Given that methods of calculating coverage_depth vary between publications, I required a method for estimating coverage_depth that would allow for a standardised comparison across samples. Since in some cases I did not have access to the .bam file (required for de-novo calculation), I devised a method of approximating coverage_depth which uses only the mt .fasta. The code is identical for humans, except genome length which differs.
+
+```{python}
+
+#| label: Calculate coverage_depth: method using number of non-N bases/expected mt genome length
+
+#!/bin/bash
+import sys
+
+DOG_MT_LENGTH = 16727  # dog mitochondrial genome length (humans would require 16569)
+
+def fasta_records(path):
+    h, s = None, []
+    with open(path) as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            if line.startswith(">"):
+                if h:
+                    yield h, "".join(s)
+                h = line[1:]
+                s = []
+            else:
+                s.append(line)
+        if h:
+            yield h, "".join(s)
+
+if len(sys.argv) != 2:
+    sys.exit("usage: calc_dog_mt_completeness.py <fasta>")
+
+for header, seq in fasta_records(sys.argv[1]):
+    acgt = sum(1 for b in seq.upper() if b in "ACGT")
+    completeness = acgt / DOG_MT_LENGTH
+    print(header + "\t" + "{:.4f}".format(completeness))
+
+
+
+
+```
 
 ```{r}
 1 + 1
