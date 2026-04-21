@@ -1,0 +1,31 @@
+Fasta_file_name,Number_of_sequences,Source_breakdown_(number_of_sequences_shown_in_brackets)
+victor.fasta,38,"RaghavanScience2015 (23), MorenoMayarScience2018 (15)"
+all_Ferraz_samples_MT_consensus.fasta,29,FerrazNature2023
+consensus_mtDNA_21_Krettek_complete_module.fasta,21,KrettekScience2025
+consensus_mtDNA_17_Popovic_complete_module.fasta,17,PopovićbioRxiv2021
+consensus_mtDNA_88_Nagele_complete_module.fasta,88,NageleScience2020
+Kennewick_MT_consensus.fasta,1,RasmussenNature2015
+MA1_mt.fasta,1,RaghavanNature2014
+Anzick-1.hg19.flt.sort.rmdup.realign.md_MT_consensus.fasta,1,RasmussenNature2014
+genbank_494.fasta,494,"FehrenSchmitzPNAS2014 (68), DugganCurrBiol2017 (46), Llamas et al. 2016 (39), LlamasSciAdv2016 (34), MottiJArchaeolSciRep2020 (26), BacaAmJPhysAnthropol2014 (25), BacaBMCGenet2012 (24), Angelina Garcia (21), Bastien Llamas (15), DelgadoQuaternaryInternational2020 (15), MoralesArceAmJPhysAnthropol2017 (11), RocaRadaiScience2021 (7), FehrenSchmitzCurrBiol2017 (5), CuiPLOSOne2013 (4), Fehren-Schmitz et al. 2015 (4), RussoAnnHumGenet2016 (2), TackneyPNAS2015 (2), FigueiroRevArgAntropolBiol2017 (2), PosthCell2018 (1), MonsalveAmJPhysAnthropol2002 (1), SansPLosOne2015 (1), KılınçSciAdv2021 from KılınçSciRep2018 (1)"
+nakatsuka2020_5_MT_consensus.fasta,5,NakatsukaCell2020 (5)
+all_18_posth_samples_MT_consensus.fasta,18,PosthCell2018 (18)
+Yana2_MT_consensus.fasta,1,SikoraNature2019
+Yana1_MT_consensus.fasta,1,SikoraNature2019
+all_sheib_samples_MT_consensus_with_titles,88,ScheibScience2018
+PC537_MT_consensus.fasta,1,SchroederPNAS2018
+consensus_mtDNA_23_Margaryan_complete_module.fasta,23,MargaryanNature2020
+harvard2_8_module.fasta,8,
+consensus_mtDNA_2_Schroeder_complete_module.fasta,2,SchroederJArchaeolSciRep2021
+consensus_mtDNA_1_Essel_complete_module.fasta,1,EsselNature2023
+consensus_mtDNA_3_Zavala_partial_module.fasta,3,ZavalaNature2021
+consensus_mtDNA_3_Lindo_complete_module.fasta,3,LindoPNAS2017
+consensus_mtDNA_9_Motti2_complete_module.fasta,9,MottiAmJBioAnthropol2023
+consensus_mtDNA_5_RussoRevRussoAm_partial_module.fasta,5,"RussoRevArgAntropolBiol2017 (4), RussoAmJHumBiol2018 (1)"
+consensus_mtDNA_11_Capodiferro_complete_module.fasta,11,CapodiferroCell2021
+harvard_587_out_of_851_module.fasta,587,
+consensus_mtDNA_191_FernandesSirakNakatsukaNat_complete_module.fasta,191,"FernandesSirakNature2020 (171), NakatsukaNatCommun2020 (20)"
+I18125_consensus.fasta,1,SirakGenomeRes2020 (1)
+AfontovaGora3_MT_consensus.fasta,1,FuNature2016 (1)
+UKY001.B0101.1240K_mt.only_consensus.fasta,1,YuCell2020 (1)
+Total,1650,
