@@ -8,7 +8,7 @@ Supplementary tables S1-S7 are described in the Supplementary Information sectio
 
 **Code:**
 -------------
-There are two quarto files which contain annotated code. The second .qmd file (phylogeny_visualisation) is inside a folder. The whole folder should be downloaded and the working directory set to here in order to run the code. 
+There are two quarto files which contain annotated code. The second .qmd file is inside a folder (phylogeny_visualisation_csvs). The whole folder should be downloaded and the working directory set to here in order to run the code. 
 1. **analysis_pipeline**
    - Contains a record of code used in the bioinformatic pipeline for sequence extraction, alignment and phylogeny generation. 
 
