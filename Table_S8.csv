@@ -1,0 +1,47 @@
+Master ID,Publication abbreviation,doi for publication of this representation of the data,"Date mean in BP in years before 1950 CE [OxCal mu for a direct radiocarbon date, and average of range for a contextual date]",Political Entity,Lat.,Long.,haplogroup
+BB2010,ZhuiScience2022,doi:10.1016/j.isci.2022.105636,1227,China,36.2214987,98.1669692,A2
+C1634,KumarFuScience2022,doi:10.1126/science.abk1534,2268,China,43.83,82.72,A2
+C1636,KumarFuScience2022,doi:10.1126/science.abk1534,2180,China,43.83,82.72,C1
+C3353,KumarFuScience2022,doi:10.1126/science.abk1534,2574,China,47.44,85.87,A2
+C5146,WangYangScienceAdvances2023,doi:10.1126/sciadv.add5582,2154,China,29.2,89.8,A2
+C5157,WangYangScienceAdvances2023,doi:10.1126/sciadv.add5582,891,China,29.7,89.1,A2
+C5417,WangYangScienceAdvances2023,doi:10.1126/sciadv.add5582,1847,China,30,83,A2
+DA355,DamgaardScience2018,doi:10.1126/science.aar7711,5469,Russia,53.188889,103.368056,A2
+EDM139,NingNatureCommunications2020,doi:10.1038/s41467-020-16557-2,3750,China,42.0996111,118.948318,A2
+GD2-2,LeeGakuhariHumPopGenGeno2024,10.47248/hpgg2404010004,1018,Mongolia,47.0155,109.0636,A2
+I0061,MathiesonNature2015 (1240k of same same sample with 390k in HaakLazaridis2015),doi:10.1038/nature16152,8450,Russia,61.937725,35.260893,C1
+I0061,FuNature2016,doi:10.1038/nature17993,8450,Russia,61.937725,35.260893,C1
+I0246,NarasimhanPattersonScience2019 (supplement of MathiesonNature2018),doi:10.1126/science.aat7487,4138,Russia,52.9127778,50.9905556,C1
+I1524,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,905,Russia,66.161126,-169.8223,A2
+I1525,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,1695,Russia,66.161126,-169.8223,A2
+I19326,LazaridisAlpaslanRoodenbergScience2022,doi:10.1126/science.abm4247,3150,Armenia,40.373931,45.181233,C1
+I26705,OlaldeCarrionCell2023,doi:10.1016/j.cell.2023.10.018,1850,Croatia,43.524984,16.252825,C1
+I7331,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,1045,Russia,66.121383,-170.46034,A2
+I7332,FlegontovNature2019 merged with HarneyCheronetGenomeResearch2021,"doi:10.1038/s41586-019-1251-y,doi:10.1101/gr.267534.120",1070,Russia,66.121383,-170.46034,A2
+I7333,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,1250,Russia,66.121383,-170.46034,A2
+I7337,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,1150,Russia,66.121383,-170.46034,A2
+I7338,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,610,Russia,66.121383,-170.46034,A2
+I7340,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,1020,Russia,66.121383,-170.46034,A2
+I7341,SikoraNature2019,doi:10.1038/s41586-019-1279-z,1100,Russia,66.121383,-170.46034,A2
+I7341,FlegontovNature2019 merged with HarneyCheronetGenomeResearch2021,"doi:10.1038/s41586-019-1251-y,doi:10.1101/gr.267534.120",1100,Russia,66.121383,-170.46034,A2
+I7342,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,2062,Russia,66.121383,-170.46034,A2
+I7342,SikoraNature2019,doi:10.1038/s41586-019-1279-z,2062,Russia,66.121383,-170.46034,A2
+I7343,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,860,Russia,66.121383,-170.46034,A2
+I7343,SikoraNature2019,doi:10.1038/s41586-019-1279-z,860,Russia,66.121383,-170.46034,A2
+I7343,HarneyCheronetGenomeResearch2021 (new version of data from FlegontovNature2019),doi:10.1101/gr.267534.120,860,Russia,66.121383,-170.46034,A2
+I7344,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,1080,Russia,66.121383,-170.46034,A2
+I7348,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,1205,Russia,66.121383,-170.46034,A2
+I7349,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,1140,Russia,66.121383,-170.46034,A2
+I7349,SikoraNature2019,doi:10.1038/s41586-019-1279-z,1140,Russia,66.121383,-170.46034,A2
+I8294,FlegontovNature2019,doi:10.1038/s41586-019-1251-y,795,Russia,66.161126,-169.8223,A2
+IMA006,JeongCell2020,doi:10.1016/j.cell.2020.10.015,1949,Russia,50.497414,106.405503,A2
+MIT001,JeongCell2020,doi:10.1016/j.cell.2020.10.015,3010,Mongolia,47.32965,105.665464,D1
+MJ-43,JarveCurrentBiology2019,doi:10.1016/j.cub.2019.06.019,2312,Russia,52.753393,58.667696,C1
+MJ-52,JarveCurrentBiology2019,doi:10.1016/j.cub.2019.06.019,2621,Kazakhstan,48.7493583,73.6997028,A2
+NEO234,SikoraNature2019,doi:10.1038/s41586-019-1279-z,2818,Russia,66.161126,-169.8223,A2
+NEO242,SikoraNature2019,doi:10.1038/s41586-019-1279-z,1757,Russia,66.121383,-170.46034,A2
+NEO243,SikoraNature2019,doi:10.1038/s41586-019-1279-z,2209,Russia,66.121383,-170.46034,A2
+NEO250,SikoraNature2019,doi:10.1038/s41586-019-1279-z,2142,Russia,66.121383,-170.46034,A2
+NEO253,SikoraNature2019,doi:10.1038/s41586-019-1279-z,1721,Russia,66.121383,-170.46034,A2
+ULN011,JeongCell2020,doi:10.1016/j.cell.2020.10.015,719,Mongolia,46.650964,111.846572,A2
+ZAA001,JeongCell2020,doi:10.1016/j.cell.2020.10.015,1075,Mongolia,47.854689,104.04602,A2
